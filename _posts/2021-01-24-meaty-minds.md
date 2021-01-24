@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to not a blog"
 date: 2021-01-24
 ---
 
